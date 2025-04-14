@@ -1,0 +1,20 @@
+Quadro Kanban DevOps – Iniciante
+
+Vamos usar os clássicos 4 blocos:
+
+🔹 A Fazer
+ Aula 1: Introdução ao DevOps    (check)
+
+ Aula 2: Cultura DevOps e Colaboração   (check)
+
+ Aula 3: Git e GitHub na prática   (check)
+
+ Aula 4: Pipelines e CI/CD (GitHub Actions)
+
+ Aula 5: Docker – Conceitos básicos
+
+ Aula 6: Docker na prática (criar primeiro container)
+
+ Mini projeto prático (se o bootcamp tiver)
+
+ Revisar anotações e criar mapa mental
